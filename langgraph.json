@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "agent": "./chef_with_memory:chef_memory_agent"
+    },
+    "env": "./.env"
+  }
