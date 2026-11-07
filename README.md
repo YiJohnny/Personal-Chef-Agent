@@ -25,7 +25,7 @@ Python · LangChain · LangGraph · OpenAI · Tavily · uv
 
 - Image-based ingredient recognition
 
-##Future Improvements
+## Future Improvements
 - Long-term preference memory
 - Personalized recipe recommendations
 
